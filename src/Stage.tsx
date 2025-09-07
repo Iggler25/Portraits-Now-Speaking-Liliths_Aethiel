@@ -51,7 +51,7 @@ const DEFAULT_CHARACTERS: Character[] = [
   { name: "Tifa", aliases: ["Tifa Lockhart", "Lockhart"], imageUrl: "https://files.catbox.moe/654jgo.jpg" },
   { name: "Yoruichi", aliases: ["Yoruichi Shihoin", "Yoruichi Shihōin", "Shihoin", "Shihōin"], imageUrl: "https://files.catbox.moe/jj3740.jpg" },
   { name: "Jolyne", aliases: ["Jolyne Kujoh", "Jolyne", "Kujoh", "Jo"], imageUrl: "https://files.catbox.moe/qqojnd.jpg" },
-  { name: "Misa", aliases: ["Misa Amane", "Misa", "Amane", "Misa Misa"], imageUrl: "https://files.catbox.moe/o3i89a.jpg" },
+  { name: "Misa", aliases: ["Misa Amane", "Misa-Misa", "Amane", "Misa Misa"], imageUrl: "https://files.catbox.moe/o3i89a.jpg" },
 ];
 
 /** =================== Helpers =================== */

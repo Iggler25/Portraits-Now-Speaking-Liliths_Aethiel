@@ -45,8 +45,17 @@ const DEFAULT_CHARACTERS: Character[] = [
     { name: "Nyssia", aliases: [], imageUrl: "https://files.catbox.moe/59ops5.jpg" },
     { name: "Morgana", aliases: [], imageUrl: "https://files.catbox.moe/63ayl4.jpg" },
     { name: "Nami", aliases: [], imageUrl: "https://files.catbox.moe/g8v18s.jpg" }, // fixed .jpg
-    { name: "Nico Robin", aliases: ["Nico", "Robin", "NicoRobin"], imageUrl: "https://files.catbox.moe/sut7qk.jpg" },
-    { name: "Maki Oze", aliases: ["Maki", "Oze", "MakiOze"], imageUrl: "https://files.catbox.moe/d3eitq.jpg" }
+    { name: "Nico Robin", aliases: ["Nico", "Robin", "Nico Robin"], imageUrl: "https://files.catbox.moe/sut7qk.jpg" },
+    { name: "Maki Oze", aliases: ["Maki", "Oze", "Maki Oze"], imageUrl: "https://files.catbox.moe/d3eitq.jpg" },
+    { name: "Boa Hancock", aliases: ["Hancock", "Boa", "Boa Hancock"], imageUrl: "https://files.catbox.moe/u7tsop.jpg" },
+    { name: "Cammy White", aliases: ["Cammy", "White", "Cammy White"], imageUrl: "https://files.catbox.moe/fnd4c1.jpg" },
+    { name: "Jolyne Kujoh", aliases: ["Jolyne", "Kujoh", "Jolyne Kujoh"], imageUrl: "https://files.catbox.moe/xsg03j.jpg" },
+    { name: "Misa Amane", aliases: ["Misa", "Misa-Misa", "Amane"], imageUrl: "https://files.catbox.moe/dfcwox.jpg" },
+    { name: "Quiet", aliases: ["Quiet", "Quiet Lady", "Quiet Metal Gear Solid"], imageUrl: "https://files.catbox.moe/zh6sdw.jpg" },
+    { name: "Tifa", aliases: ["Tifa", "Lockhart", "Tifa Lockhart"], imageUrl: "https://files.catbox.moe/654jgo.jpg" },
+    { name: "Yoruichi", aliases: ["Yoruichi", "Shihouin", "Yoruichi Shihouin"], imageUrl: "https://files.catbox.moe/jj3740.jpg" },
+
+
 ];
 
 /** =================== Helpers =================== */

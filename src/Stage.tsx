@@ -33,6 +33,7 @@ type Config = {
 /** =================== Roster (put your real URLs) =================== */
 const DEFAULT_CHARACTERS: Character[] = [
     { name: "Lilith", aliases: ["Lady Lilith"], imageUrl: "https://files.catbox.moe/hpcqr0.jpg" },
+    { name: "Naamah", aliases: ["Lady Naamah"], imageUrl: "https://files.catbox.moe/blum09.jpg" },
     { name: "Ankha", aliases: [], imageUrl: "https://files.catbox.moe/akibog.jpg" },
     { name: "Widowmaker", aliases: ["Amelie", "Amélie", "Lacroix"], imageUrl: "https://files.catbox.moe/bzfzsg.jpg" },
     { name: "Rebecca", aliases: ["Becca"], imageUrl: "https://files.catbox.moe/qo4sg2.jpg" },

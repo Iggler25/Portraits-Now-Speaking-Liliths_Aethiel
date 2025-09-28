@@ -54,6 +54,9 @@ const DEFAULT_CHARACTERS: Character[] = [
     { name: "Quiet", aliases: ["Quiet", "Quiet Lady", "Quiet Metal Gear Solid"], imageUrl: "https://files.catbox.moe/zh6sdw.jpg" },
     { name: "Tifa", aliases: ["Tifa", "Lockhart", "Tifa Lockhart"], imageUrl: "https://files.catbox.moe/654jgo.jpg" },
     { name: "Yoruichi", aliases: ["Yoruichi", "Shihouin", "Yoruichi Shihouin"], imageUrl: "https://files.catbox.moe/jj3740.jpg" },
+    { name: "Siri", aliases: ["Siri The Futa", "The Futa", "Siri The Futa"], imageUrl: "https://files.catbox.moe/fzh7gb.jpg" },
+    { name: "Vincent", aliases: ["Vincent The Psychic", "The Psychic", "Vincent"], imageUrl: "https://files.catbox.moe/mvkbm1.jpg" },
+    { name: "Reo", aliases: ["Reo The Mimic", "The Mimic", "Reo"], imageUrl: "https://files.catbox.moe/p4msdi.jpg" },
 
 
 ];

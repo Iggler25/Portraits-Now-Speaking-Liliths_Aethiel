@@ -56,7 +56,16 @@ const DEFAULT_CHARACTERS: Character[] = [
     { name: "Yoruichi", aliases: ["Yoruichi", "Shihouin", "Yoruichi Shihouin"], imageUrl: "https://files.catbox.moe/jj3740.jpg" },
     { name: "Siri", aliases: ["Siri The Futa", "The Futa", "Siri The Futa"], imageUrl: "https://files.catbox.moe/fzh7gb.jpg" },
     { name: "Vincent", aliases: ["Vincent The Psychic", "The Psychic", "Vincent"], imageUrl: "https://files.catbox.moe/mvkbm1.jpg" },
-    { name: "Reo", aliases: ["Reo The Mimic", "The Mimic", "Reo"], imageUrl: "https://files.catbox.moe/p4msdi.jpg" },
+    { name: "Reyna", aliases: ["Reyna", "Reyna", "Reyna"], imageUrl: "https://files.catbox.moe/qehkie.jpg" },
+    { name: "Loba", aliases: ["Loba", "Loba", "Loba"], imageUrl: "https://files.catbox.moe/sl5upn.jpg" },
+    { name: "Sombra", aliases: ["Sombra", "Sombra", "Sombra"], imageUrl: "https://files.catbox.moe/rewwe8.jpg" },
+    { name: "Juno", aliases: ["Juno", "Juno", "Juno"], imageUrl: "https://files.catbox.moe/xn664b.jpg" },
+    { name: "Kiriko", aliases: ["Kiriko", "Kiriko", "Kiriko"], imageUrl: "https://files.catbox.moe/m2pomx.jpg" },
+    { name: "Marina", aliases: ["Marina", "Marina", "Marina"], imageUrl: "https://files.catbox.moe/xoqfs3.jpg" },
+    { name: "Jett", aliases: ["Jett", "Jett", "Jett"], imageUrl: "https://files.catbox.moe/e1lj8j.jpg" },
+    { name: "Lux", aliases: ["Lux", "The Mimic", "Lux"], imageUrl: "https://files.catbox.moe/umxg2f.jpg" },
+    { name: "Neon", aliases: ["Neon", "Neon", "Neon"], imageUrl: "https://files.catbox.moe/tj3s47.jpg" },
+    { name: "Judy Alvarez", aliases: ["Judy", "Judy Alvarez", "Alvarez"], imageUrl: "https://files.catbox.moe/x13fvk.jpg" },
 
 
 ];
